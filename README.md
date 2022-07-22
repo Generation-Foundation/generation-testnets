@@ -1,2 +1,3 @@
-# generation-testnets
-Generation Testnets
+# Generation Testnets
+
+A repo for sharing genesis files for generation testnets.
