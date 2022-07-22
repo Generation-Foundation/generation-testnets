@@ -6,7 +6,7 @@ A repo for sharing genesis files for generation testnets.
 
 ### Providers - Public Endpoints
 
-1. Generation - https://43.200.43.76:8545
+1. Generation - http://43.200.43.76:8545
 
 ## JSON RPC API
 
